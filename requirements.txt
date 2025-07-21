@@ -1,0 +1,13 @@
+flask
+flask_sqlalchemy
+flask_cors
+scikit-learn
+pandas
+joblib
+requests
+twilio
+google-api-python-client
+google-auth
+google-auth-oauthlib
+flask-jwt-extended
+python-dotenv
